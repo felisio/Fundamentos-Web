@@ -3,7 +3,7 @@ Faculdade Senai Cimatec
 
 Material Público para a materia de "Fundamentos para Desenvolvimento Web"
 
-Todo material aqui incluido esta sobre a licença CC
+Todo material aqui incluido esta sobre a licença CC BY-NC-ND
 
 ![](https://licensebuttons.net/l/by-nc-nd/3.0/88x31.png)
 
