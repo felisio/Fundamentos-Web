@@ -49,4 +49,14 @@ style(div,'font-size','30px') === '30px'
 
 
 
+#####06 - Crie um formulário para inserção de um empregado, com três campos: nome, sobrenome e salario. Faça uma validação para que o nome só aceite letras. Ao ser validado crie um objeto literal com os respectivos atributos e insira os valores pego. Coloque um alert na tela dando o feedback ao usuário caso seja inserido, ou caso a validação não estiver correta. 
+
+
+
+#####07 - Desafio Lista: faça uma lista de tarefas(tarefa 01, tarefa 02) aonde o usuário possa inserir um nova tarefa através de um input text e clicando no botão “incluir”. O código deve incluir pelo menos duas funções: inserirTarefa – responsável por validar se o campo esta branco e inserir a nova tarefa na lista de tarefas; printTarefas – responsável por imprimir as tarefas na tela em forma de lista.
+
+
+
+
+
 
