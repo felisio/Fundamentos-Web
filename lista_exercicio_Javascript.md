@@ -10,7 +10,7 @@ Responder toda a lista de exercício
 
 **Organização**
 
-O exericicio deve ser respondido individualmente.
+O exericício deve ser respondido individualmente.
 
 **Avaliação**
 
@@ -45,7 +45,7 @@ style(div,'font-size','30px') === '30px'
 #####Em seguida crie uma função que pegue esse ID e através de um intervalo de 10 milissegundos ira deslocar essa div em diagonal atualizando o seu left e top de 0px para 100px
 
 
-#####05 - Baseado nos conceitos aprendidos de O.O. em javascript crie uma Classe chamada Empregado, que tem três atributos: nome, sobrenome e salarioMensal. A classe também deve conter dois métodos calcularSalarioAno que retorna o salario mensal multiplicado por 12 e dadosEmpregado que retorna os dados seguido este modelo: “Carlos Silva, Salario: 120.5”
+#####05 - Baseado nos conceitos aprendidos de O.O. em javascript crie uma Classe chamada Empregado, que tem três atributos: nome, sobrenome e salarioMensal. A classe também deve conter dois métodos calcularSalarioAno que retorna o salário mensal multiplicado por 12 e dadosEmpregado que retorna os dados seguido este modelo: “Carlos Silva, Salário: 120.5”
 
 
 
@@ -53,7 +53,7 @@ style(div,'font-size','30px') === '30px'
 
 
 
-#####07 - Desafio Lista: faça uma lista de tarefas(tarefa 01, tarefa 02) aonde o usuário possa inserir um nova tarefa através de um input text e clicando no botão “incluir”. O código deve incluir pelo menos duas funções: inserirTarefa – responsável por validar se o campo esta branco e inserir a nova tarefa na lista de tarefas; printTarefas – responsável por imprimir as tarefas na tela em forma de lista.
+#####07 - Desafio Lista: faça uma lista de tarefas(tarefa 01, tarefa 02) onde o usuário possa inserir um nova tarefa através de um input text e clicando no botão “incluir”. O código deve incluir pelo menos duas funções: inserirTarefa – responsável por validar se o campo esta branco e inserir a nova tarefa na lista de tarefas; printTarefas – responsável por imprimir as tarefas na tela em forma de lista.
 
 
 
