@@ -6,7 +6,7 @@
 
 **Atividade**
 
-Responder toda a lista de exercicio 
+Responder toda a lista de exercício 
 
 **Organização**
 
@@ -15,7 +15,7 @@ O exericicio deve ser respondido individualmente.
 **Avaliação**
 
 Serão avaliados:
-- Se o código esta funcionando
+- Se o código está funcionando
 - Organização com o código
 - Criatividade
 
@@ -25,7 +25,7 @@ Criar um projeto no seu gitHub para colocar as respostas e mandar para meu email
 
 ### Exercicios Javascript
 
-#####01 - Escreva uma função receba uma string e imprima as 4 primeiras letras
+#####01 - Escreva uma função que receba uma string e imprima as 4 primeiras letras
 
 #####02 - Você recebeu o seguinte array: 
 ```javascript
