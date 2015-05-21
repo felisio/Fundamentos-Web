@@ -47,6 +47,10 @@
 
 })(window, document);
 
+document.addEventListener('DOMContentLoaded', function() {
+  
+});
+
 ```
 
 
