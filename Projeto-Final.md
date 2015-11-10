@@ -15,7 +15,7 @@ Cada dupla deverá desenvolver um Aplicativo Web (Mobile ou Desktop) de tema liv
 Aplicar todos os conhecimentos construídos sobre desenvolvimento web, seguindo os seguintes critérios:
 - Fazer o Wireframe do Projeto (1 pontos)
 - Aplicar os Padrões de Semântica no HTML e aplicação de Folha de Estilo (2 pontos)
-- Deve ser feito somente em Javascript "puro" (sem uso de Framework ou bibliotecas), com código limpo e legível (3 pontos)
+- Deve ser feito somente em Javascript (podera ser usado Framework ou bibliotecas), com código limpo e legível (3 pontos)
 - ter no minimo 1 CRUD (Create, Reader, Update, Delete) (2 pontos)
 
 **Organização**
